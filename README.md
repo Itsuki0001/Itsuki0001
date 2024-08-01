@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @Itsuki0001
-- 👀 I’m interested in becoming a machine learner 
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: istyakuddin123@gmail.com
-- 😄 Pronouns: Itsuki
